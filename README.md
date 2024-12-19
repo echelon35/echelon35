@@ -5,7 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echelon35" alt="echelon35" /></a> </p>
 
-- 🔭 I’m currently working on [Disastream](https://disastream.com)
+<h2>Only ten repositories, are you kidding me ?</h2>
+<p>In fact, 20. Some private repositories you will not see but that could be interesting to know : </p>
+<ul>
+  <li>DisastreamAPI : Back-end of Disastream</li>
+  <li>DisasterEater : Terrifying API eating some disasters to feed DisasterAPI (public)</li>
+  <li>SatellEarth : Earth-centered social network</li>
+</ul>
+
+<h2>Some of my projects :</h2>
+<ul>
+  <li>🌋 [Disastream](https://disastream.com) : imagine to be notified each time a natural disaster happened somewhere in the world ?</li>
+  <li>🌆 NostalgicStreets : Back in time into the town of your childhood</li>
+  <li>🌱 Seed : manage your vegetable garden</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

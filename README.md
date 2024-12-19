@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echelon35&label=Profile%20views&color=0e75b6&style=flat" alt="echelon35" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echelon35" alt="echelon35" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echelon35&theme=nord" alt="echelon35" /></a> </p>
 
 <h2>Only ten repositories, are you kidding me ?</h2>
 <p>In fact, 20. Some private repositories you will not see but that could be interesting to know : </p>
@@ -15,7 +15,7 @@
 
 <h2>Some of my projects :</h2>
 <ul>
-  <li>🌋 [Disastream](https://disastream.com) : imagine to be notified each time a natural disaster happened somewhere in the world ?</li>
+  <li>🌋 <a href ="https://disastream.com">Disastream</a> : imagine to be notified each time a natural disaster happened somewhere in the world ?</li>
   <li>🌆 NostalgicStreets : Back in time into the town of your childhood</li>
   <li>🌱 Seed : manage your vegetable garden</li>
 </ul>

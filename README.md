@@ -16,8 +16,9 @@
 <h2>Some of my projects :</h2>
 <ul>
   <li>🌋 <a href ="https://disastream.com">Disastream</a> : imagine to be notified each time a natural disaster happened somewhere in the world ?</li>
-  <li>🌆 NostalgicStreets : Back in time into the town of your childhood</li>
+  <li>🌆 Bourgad : Communicate with the population of your town</li>
   <li>🌱 Seed : manage your vegetable garden</li>
+  <li>🐞 MyBugsedex : pokedex and exchange for MyBugs cards</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
